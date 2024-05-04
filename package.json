@@ -1,0 +1,22 @@
+{
+  "name": "YoutubeMusic",
+  "version": "1.0.0",
+  "description": "Just loads the website inside an app, easier to use on stream and have its own sound source",
+  "main": "main.js",
+  "author": "DoctorAm1r",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "win": {
+      "target": "NSIS",
+      "icon": "build/icon.ico"
+    }
+  },
+  "devDependencies": {
+    "electron": "^30.0.2",
+    "electron-builder": "^24.13.3"
+  }
+}
