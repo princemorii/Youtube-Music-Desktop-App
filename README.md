@@ -25,6 +25,11 @@ If you're interested in contributing to the project or customizing the applicati
 2. **Install Dependencies**
 3. **Compile Application**
 
+## Follow me? <3
+- [Twitch](https://twitch.tv/DoctorAm1r)
+- [Instagram](https://instagram.com/DoctorAm1r)
+- [Discord](https://discord.gg/72zBrP54sg)
+
 ## Note
 This is currently only available for Windows operating systems.
 
