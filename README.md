@@ -16,7 +16,7 @@ You have two options for using YouTube Music Audio Capture:
 2. **Compile Yourself**: If you prefer, you can compile the application yourself using Electron Builder. This gives you the flexibility to customize the application to your liking before installation.
 
 ## Installation
-1. **Download**: Visit the [Releases](link) page on GitHub and download the latest installer for Windows.
+1. **Download**: Visit the [Releases]([link](https://github.com/princemorii/Youtube-Music-Desktop-App/releases)) page on GitHub and download the latest installer for Windows.
 2. **Install**: Run the installer and follow the on-screen instructions to install the application on your system.
 
 ## Development
